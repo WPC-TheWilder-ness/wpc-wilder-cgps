@@ -1,7 +1,7 @@
 ---
 title: Computational Global Peace System
 draft: false
-avatar: images/upc.png
+avatar: images/CGPSexpression.png
 bio: The computational global peace system as specified by the time machine for peace social invention program is known as 'the universal piece computer'. This specification is invoked by general peace dynamics and represents our Earth born aspect of the greater universal piece computer, the collection of all peace's world piece computers, resulting entity that maintains the universal piece, the peace process that dictates the greater evolution of the universe at large.
 
 weight: 1
@@ -28,4 +28,4 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
+[[ UNDER CONSTRUCTION ]]
